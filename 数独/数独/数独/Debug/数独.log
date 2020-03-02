@@ -1,0 +1,9 @@
+﻿  数独破解.c
+c:\users\成\desktop\project\c练习项目\数独\数独\数独\数独破解.c(47): warning C4013: “system”未定义；假设外部返回 int
+c:\users\成\desktop\project\c练习项目\数独\数独\数独\数独破解.c(58): warning C4013: “exit”未定义；假设外部返回 int
+c:\users\成\desktop\project\c练习项目\数独\数独\数独\数独破解.c(165): warning C4033: “pojie_p”必须返回值
+c:\users\成\desktop\project\c练习项目\数独\数独\数独\数独破解.c(150): warning C4102: “bb”: 未引用的标签
+c:\users\成\desktop\project\c练习项目\数独\数独\数独\数独破解.c(197): warning C4101: “tmp”: 未引用的局部变量
+c:\users\成\desktop\project\c练习项目\数独\数独\数独\数独破解.c(197): warning C4101: “n”: 未引用的局部变量
+c:\users\成\desktop\project\c练习项目\数独\数独\数独\数独破解.c(167): warning C4715: “pojie_p”: 不是所有的控件路径都返回值
+  数独.vcxproj -> C:\Users\成\Desktop\project\c练习项目\数独\数独\Debug\数独.exe
